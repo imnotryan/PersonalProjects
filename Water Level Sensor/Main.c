@@ -358,7 +358,7 @@ if (resetPushed == false)
     {
       lcd.clear();
       lcd.setCursor(0,0);
-      lcd.print(    "Storing");
+      lcd.print("    Storing");
       lcd.setCursor(0,1);
       lcd.print("  Water Data...");
       if (resetPushed == true)//want to stop storing if reset was pushed
@@ -372,7 +372,7 @@ if (resetPushed == false)
         lcd.setCursor(0,0);
         lcd.print("    Storing");
         lcd.setCursor(0,1);
-        lcd.print("  Water Data");
+        lcd.print("  Water Data...");
         displayedDataPushed == false;
       }
       Delay100ms(20);//delays TWO seconds - 3600 seconds in a minute. TWO second delay required i =1800 
