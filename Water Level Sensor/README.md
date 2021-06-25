@@ -16,11 +16,10 @@ Hardware used in this project:
 21x Male to Male DuPont wires (F to M and M to M for $6.99 total on Amazon)
 
 
-Important info about DS3231 software and hardware connections: http://www.rinkydinkelectronics.com/library.php?id=73
+Important info about DS3231 RTC software and hardware connections: http://www.rinkydinkelectronics.com/library.php?id=73
+LCD software driver can be found in Arduino's Library Manager
 
 
-Hardware Connections:
-*"Power" Section (top left) of Arduino 
-- Use the 3.3V to use with pull-down resistor with 
+Look at picture in this repository to see hardware connections
 
 
