@@ -1,8 +1,6 @@
 
 #include <LiquidCrystal.h>
 #include <DS3231.h>
-#include <Keypad.h>
-//#include <WaterLevelSensor.h>
 
 LiquidCrystal lcd(8, 9, 10, 11, 12,13); // sets pins 8, 9, 10, 11, 12, 13 to work with LCD
 
