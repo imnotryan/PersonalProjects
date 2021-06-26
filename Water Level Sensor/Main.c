@@ -253,9 +253,9 @@ void setup() {   // initializes pins and real-time clock
   rtc.begin();
   
   // The following lines can be uncommented to set the date and time BUT ONLY TO **INITIALLY** SET THE DATE AND TIME 
-  //rtc.setDOW(SATURDAY);     // Set Day-of-Week to SUNDAY
-  //rtc.setTime(18, 33, 0);     // Set the time to 12:00:00 (24hr format)
-  //rtc.setDate(20, 3, 2021);   // Set the date to January 1st, 2014
+  //rtc.setDOW(SATURDAY);       // Set Day-of-Week to SATURDAY
+  //rtc.setTime(18, 33, 0);     // Set the time to HH:MM:SS (24hr format)
+  //rtc.setDate(3, 1, 2021);    // Set the date to January 3rd, 2021
 
 
 pinMode(2, INPUT);    // sets the digital pin 2 as input 
