@@ -2,6 +2,8 @@ Welcome to my Water Level Sensor project!
 
 This project was done on a breadboard, so any permanent circuit one wishes to make will need to be modified with a surface-mount PCB. Also, external batteries are needed to keep this project running when the power eventually goes out when a flood comes. C++ is used for all the software.
 
+Description:
+
 My house flooded in the summers of 2018, 2019, and 2020, with 2018 and 2019 being from major storms, and 2020 being from Hurricane Hannah.
 We have flood insurance, but some random insurance adjuster from Alabama (I'm from Texas) came into our house, looked around for a few hours, and decided to give us money 
 to compensate for our flood damage. This man was unknown to my family and I, and we relied completely on him to evaluate our flood damage. 
