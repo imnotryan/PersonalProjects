@@ -56,7 +56,7 @@ https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/ -
 https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/ --> attach interrupt to a pin
 
 
-- !!Look at picture in this repository to see hardware connections!!
+- !!Look at pictures in this repository to see hardware connections!!
 
 ### Advantages of this project:
 - Realtively cheap construction, total cost is under $40 for guaranteeing tens of thousands of dollars in flood damage compensation
