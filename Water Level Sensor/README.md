@@ -12,7 +12,7 @@ What if the insurance adjuster was told to give us less money because the compan
 All our money paid to our flood insurance over the years would be for nothing if we weren't given the proper amount of money to pay for the flood damage that we had over three
 years. 
 
-Therefore, this Water Level Sensor is meant to further verify flood insurance adjuster's claims on how much damage was done to one's house, to get a more accurate account of how
+Therefore, this Water Level Sensor is meant to further verify flood insurance adjuster's claims on how much damage was done to one's house to get a more accurate account of how
 much damage was done to a building, by measuring the maximum water height that entered the building. This Water Level Sensor measures the water height once an hour, every hour
 for 3 days and then displays the highest water height (that entered the house) in both centimeters and inches until the reset button is pushed. It also displays the date, day of
 week, and time that the highest water level was measured.
