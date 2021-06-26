@@ -63,15 +63,15 @@ Advantages of this project:
 - Parts for replacement are cheap on Amazon, Digikey, or Mouser
 
 Limitations of this project: 
--The Water Level Sensor is cheap and therefore of poor quality. The ADC values that the Arduino's chip measures are not consistent, even when measuring the same water level with
-many trials. Therefore, the water level measured by the Water Level Sensor is inaccurate by at least 1cm.
+- The Water Level Sensor is cheap and therefore of poor quality. The ADC values that the Arduino's chip measures are not consistent, even when measuring the same water level
+with many trials. Therefore, the water level measured by the Water Level Sensor is inaccurate by at least 1cm.
 
--The Water Level Sensor works by running current through exposed PCB copper traces through the positive voltage traces. Once water touches this trace, it creates a path
+- The Water Level Sensor works by running current through exposed PCB copper traces through the positive voltage traces. Once water touches this trace, it creates a path
 to the other, exposed ground traces, thus creating a varying voltage drop (that is dependent on the water level) across a resistor that is hooked up to the Arduino's ADC. The
 ADC measures this varying voltage drop, thereby measuring the water level. However, since we are exposing copper, which tarnishes, to water over a long period of time, 
 the copper corrodes and eventually comes off the PCB, making it impossible to measure any water level. 
 
--Finally, pure water is an insulator, but since flood water is generally very dirty, it will conduct electricity. The water conductivity depends on the material in it,
+- Finally, pure water is an insulator, but since flood water is generally very dirty, it will conduct electricity. The water conductivity depends on the material in it,
 making the Water Level Sensor inaccurate depending on the amount and type of contaminents it has. 
 
 
