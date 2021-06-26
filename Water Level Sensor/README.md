@@ -24,17 +24,26 @@ which will prompt the software to begin taking measurements for the next three d
 
 Hardware used in this project (prices are as of June 2021 in USD):
 
--1x Arduino ATmega 2560 microcontroller with USB cable ($15.99 on Amazon)
--1x 830-point breadboard (About $10 on Amazon)
--1x LCD 1602 (Liquis Crystal Display) ($7.99 on Amazon)
--5x 10KΩ resistors (2 of these are optional) ($4.99 on Amazon)
--2x Pushbuttons (Less than $10 on Amazon)
--1x Water Level Detector Module (Less than $10 on Amazon)
--1x DS3231 Real Time Clock (RTC) module (About $10 on Amazon)
--7x Female to Male DuPont wires 
--21x Male to Male DuPont wires (F to M and M to M for $6.99 total on Amazon)
 
--LCD software driver can be found in Arduino's Library Manager
+- 1x Arduino ATmega 2560 microcontroller with USB cable ($15.99 on Amazon)
+
+- 1x 830-point breadboard (About $10 on Amazon)
+
+- 1x LCD 1602 (Liquis Crystal Display) ($7.99 on Amazon)
+
+- 5x 10KΩ resistors (2 of these are optional) ($4.99 on Amazon)
+
+- 2x Pushbuttons (Less than $10 on Amazon)
+
+- 1x Water Level Detector Module (Less than $10 on Amazon)
+
+- 1x DS3231 Real Time Clock (RTC) module (About $10 on Amazon)
+
+- 7x Female to Male DuPont wires 
+
+- 21x Male to Male DuPont wires (F to M and M to M for $6.99 total on Amazon)
+
+- LCD software driver can be found in Arduino's Library Manager
 
 Important links: 
 
