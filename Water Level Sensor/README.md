@@ -17,8 +17,8 @@ much damage was done to a building, by measuring the maximum water height that e
 for 3 days and then displays the highest water height (that entered the house) in both centimeters and inches until the reset button is pushed. It also displays the date, day of
 week, and time that the highest water level was measured.
 
-There is also a 'display' button, that shows the current highest water level, in case you want to find the highest water level so far, even if three days haven't passed. The
-reset button resets the highest water level and restarts the measuring process. To get started, have the water level sensor measure about 1cm of water for at least 10 seconds,
+There is also a 'display' button, that shows the current highest water level, in case you want to view the highest water level so far, even if three days haven't passed. The
+reset button resets the highest water level and restarts the measuring process. To get started, have the Water Level Sensor measure about 1cm of water for at least 10 seconds,
 which will prompt the software to begin taking measurements for the next three days. 
 
 
