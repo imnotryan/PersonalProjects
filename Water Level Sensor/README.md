@@ -43,7 +43,7 @@ Hardware used in this project (prices are as of June 2021 in USD):
 
 - 21x Male to Male DuPont wires (F to M and M to M for $6.99 total on Amazon)
 
-- LCD software driver can be found in Arduino's Library Manager
+-LCD software driver can be found in Arduino's Library Manager
 
 Important links: 
 
