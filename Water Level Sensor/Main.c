@@ -401,7 +401,6 @@ if (resetPushed == false)
 
 
 
-int loopCounter=0;
 void loop() 
 {
   resetArrayOfObjects();
