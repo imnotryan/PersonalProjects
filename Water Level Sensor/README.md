@@ -1,4 +1,5 @@
 # Welcome to my Water Level Sensor project!
+Thank you Naziul Jeead and Daniel Jahren for helping me come up with this project idea, and for draw.io as they have excellent schematic-drawing software!
 
 This project was done on a breadboard, so any permanent circuit one wishes to make will need to be modified with a surface-mount PCB. Also, external batteries are needed to keep this project running when the power eventually goes out when a flood comes. C++ is used for all the software.
 
