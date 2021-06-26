@@ -1,4 +1,4 @@
-Welcome to my Water Level Sensor project!
+### Welcome to my Water Level Sensor project!
 
 This project was done on a breadboard, so any permanent circuit one wishes to make will need to be modified with a surface-mount PCB. Also, external batteries are needed to keep this project running when the power eventually goes out when a flood comes. C++ is used for all the software.
 
