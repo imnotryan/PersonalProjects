@@ -1,2 +1,4 @@
-# PersonalProjects
-All my personal project software is here
+# Welcome to Ryan's Personal Project Respository!
+
+This public respository contains the hardware and software documentation that I used when making my projects.
+
