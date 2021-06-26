@@ -2,7 +2,7 @@
 
 This project was done on a breadboard, so any permanent circuit one wishes to make will need to be modified with a surface-mount PCB. Also, external batteries are needed to keep this project running when the power eventually goes out when a flood comes. C++ is used for all the software.
 
-**Description:
+# Description:
 
 My house flooded in the summers of 2018, 2019, and 2020, with 2018 and 2019 being from major storms, and 2020 being from Hurricane Hannah.
 We have flood insurance, but some random insurance adjuster from Alabama (I'm from Texas) came into our house, looked around for a few hours, and decided to give us money 
@@ -24,7 +24,7 @@ reset button resets the highest water level and restarts the measuring process. 
 which will prompt the software to begin taking measurements for the next three days. 
 
 
-**Hardware used in this project (prices are as of June 2021 in USD):
+# Hardware used in this project (prices are as of June 2021 in USD):
 
 
 - 1x Arduino ATmega 2560 microcontroller with USB cable ($15.99 on Amazon)
@@ -47,7 +47,7 @@ which will prompt the software to begin taking measurements for the next three d
 
 -LCD software driver can be found in Arduino's Library Manager
 
-**Important links: 
+# Important links: 
 
 http://www.rinkydinkelectronics.com/library.php?id=73 --> DS3231 RTC software and hardware connections
 https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/ --> how to configure pins as input/output 
@@ -58,13 +58,13 @@ https://www.arduino.cc/reference/en/language/functions/external-interrupts/attac
 
 - !!Look at picture in this repository to see hardware connections!!
 
-**Advantages of this project:
+# Advantages of this project:
 - Realtively cheap construction, total cost is under $40 for guaranteeing tens of thousands of dollars in flood damage compensation
 - Water Level Sensor, in case of degradation, can be replaced easily
 - Real Time Clock module's nickel battery keeps accurate time (up to seconds in accuracy) for up to one year without recharging
 - Parts for replacement are cheap on Amazon, Digikey, or Mouser
 
-**Limitations of this project: 
+# Limitations of this project: 
 - The Water Level Sensor is cheap and therefore of poor quality. The ADC values that the Arduino's chip measures are not consistent, even when measuring the same water level
 with many trials. Therefore, the water level measured by the Water Level Sensor is inaccurate by at least 1cm.
 
