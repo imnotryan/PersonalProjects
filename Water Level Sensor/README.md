@@ -31,7 +31,7 @@ Hardware used in this project (prices are as of June 2021 in USD):
 
 - 1x LCD 1602 (Liquis Crystal Display) ($7.99 on Amazon)
 
-- 5x 10KΩ resistors (2 of these are optional) ($4.99 on Amazon)
+- 5x 10KΩ resistors ($4.99 on Amazon)
 
 - 2x Pushbuttons (Less than $10 on Amazon)
 
