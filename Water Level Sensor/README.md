@@ -6,7 +6,7 @@ This project was done on a breadboard, so any permanent circuit one wishes to ma
 ### Description:
 
 My house flooded in the summers of 2018, 2019, and 2020, with 2018 and 2019 being from major storms, and 2020 being from Hurricane Hannah.
-We have flood insurance, but some random insurance adjuster from Alabama (I'm from Texas) came into our house, looked around for a few hours, and decided to give us money 
+We have flood insurance, but an unknown insurance adjuster from Alabama (I'm from Texas) came into our house, looked around for a few hours, and decided to give us money 
 to compensate for our flood damage. This man was unknown to my family and I, and we relied completely on him to evaluate our flood damage. 
 
 What if the insurance adjuster was feeling sick?
